@@ -8,7 +8,11 @@
 * `Beautiful Soup`
 * `Parsel` 
 
+## Reminder
+ * distinguish dynamic web element `(parsed as JSON)` and static web element `(parsed as HTML)`
+ * always check `parameter` when the error occurs
 
+## Workflow
 
-
-
+* get category
+* make corresponding parameters
